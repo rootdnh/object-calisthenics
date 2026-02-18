@@ -1,0 +1,1 @@
+## Artigo sobre object calisthenics de Jeff Bay, usando como exemplo de código COS (Cache ObjectScript) by Intersystems.
